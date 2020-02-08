@@ -45,11 +45,6 @@ function App() {
         <a href="/api/date">
           <code>api/date</code> for the Date API with Go
         </a>
-        .
-      </p>
-      <br />
-      <h2>The date according to Go is:</h2>
-      <p>{date ? date : 'Loading date...'}</p>
     </main>
   );
 }
